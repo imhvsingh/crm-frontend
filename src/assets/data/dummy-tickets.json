@@ -1,0 +1,77 @@
+[{
+        "id": 1,
+        "subject": "Email   certificate expired",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19",
+        "history": [{
+                "date": "23-07-10",
+                "message": "sjflsjl",
+                "messageBy": "client"
+            },
+            {
+                "date": "23-07-10",
+                "message": "sjflsjl",
+                "messageBy": "operator"
+            },
+            {
+                "date": "23-07-10",
+                "message": "sjflsjl",
+                "messageBy": "client"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "subject": "Issue with Email certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 3,
+        "subject": "Issue app crashing",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 4,
+        "subject": "Issue with ssl certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 5,
+        "subject": "Issue with ssl certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 6,
+        "subject": "Issue with ssl certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 7,
+        "subject": "Issue with ssl certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 8,
+        "subject": "Issue with ssl certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 9,
+        "subject": "Issue with ssl certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    },
+    {
+        "id": 10,
+        "subject": "Issue with ssl certificate",
+        "status": "Client response pending",
+        "addedAt": "2023-07-19"
+    }
+]
